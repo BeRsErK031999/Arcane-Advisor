@@ -10,4 +10,10 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="filter_button_text">Filter</string>
+    <string name="spell_name_placeholder">Spell Name</string>
+    <string name="spell_description_placeholder">Spell Description</string>
+    <string name="search_hint">Search spells</string>
+
 </resources>
